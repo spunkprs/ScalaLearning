@@ -1,2 +1,2 @@
 # ScalaLearning
-Code for scala learning
+This repo contains all the code required for scala learning !!
